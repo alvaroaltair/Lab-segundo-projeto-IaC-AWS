@@ -1,4 +1,4 @@
-# Lab Arquivos de script do BootCamp AWS ( IaC )
+# Lab Arquivos de script do BootCamp AWS ( IaC - Apache )
 ##### _Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões_
 
 >Neste projeto iremos criamos um script onde toda a infraestrutura de usuários, grupos de usuários, diretórios e permissões foram feitas automaticamente. 
